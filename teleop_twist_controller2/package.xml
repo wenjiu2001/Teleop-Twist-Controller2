@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>teleop_twist_controller2</name>
+  <version>0.0.1</version>
+  <description>A ROS 2 package for teleoperation using a joystick with Pygame</description>
+
+  <maintainer email="tp6u4jo6@gmail.com">Wenjiu</maintainer>
+  <license>CC BY-NC-SA 4.0</license>
+
+  <!-- Dependencies -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+
+  <!-- Export information, if any -->
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
