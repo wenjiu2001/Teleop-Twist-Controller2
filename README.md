@@ -71,7 +71,5 @@ Adjustments can be made by modifying the following parameters:
    
 ## References
 
-- Install Gazebo using Ubuntu packages (https://classic.gazebosim.org/tutorials?tut=install_ubuntu)
-- TurtleBot3 Simulation (https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
-- teleop_twist_keyboard (https://wiki.ros.org/teleop_twist_keyboard)
-- pygame (https://www.pygame.org/news)
+- [teleop_twist_keyboard](https://wiki.ros.org/teleop_twist_keyboard)
+- [pygame](https://www.pygame.org/news)
